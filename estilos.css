@@ -1,0 +1,117 @@
+/* Fondo general */
+
+ body {
+
+    background-image: linear-gradient(to right, #ffecd2, #fcb69f);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    margin: 0;
+
+    padding: 0;
+
+    color: #333;
+
+ }
+
+ /* Encabezado */
+
+ .encabezado {
+
+    background-color: #ff7043;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 40px 20px;
+
+ }
+
+ /* Navegación */
+
+ .navegacion {
+
+    background-color: #333;
+
+    text-align: center;
+
+    padding: 10px;
+
+ }
+
+ .navegacion ul {
+
+    list-style: none;
+
+    margin: 0;
+
+    padding: 0;
+
+ }
+
+ .navegacion li {
+
+    display: inline-block;
+
+    margin: 0 15px;
+
+ }
+
+ .navegacion a {
+
+    color: white;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+ }
+
+ .navegacion a:hover {
+
+    color: #ff7043;
+
+ }
+
+ /* Contenido principal */
+
+ .contenido {
+
+    padding: 40px;
+
+    background-color: rgba(255, 255, 255, 0.8);
+
+ }
+
+ .contenido h2 {
+
+    color: #d84315;
+
+ }
+
+ .contenido p, .contenido li {
+
+    line-height: 1.6;
+
+ }
+
+ /* Pie de página */
+
+ .pie {
+
+    background-color: #333;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px 0;
+
+ }
+
+ /* Espaciado adicional */
+
+ section {
+
+    margin-bottom: 40px;
